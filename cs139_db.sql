@@ -38,9 +38,9 @@ CREATE TABLE `students` (
 --
 
 INSERT INTO `students` (`id`, `fullname`, `course`) VALUES
-(1, 'Eugine Bryan S. Cadiz', 'BSCS'),
-(2, 'Christian Paul W. Apiag', 'BSCS'),
-(3, 'Tedd Angelo J. Gitalan', 'BSCS');
+(1, 'Nikki B. Beljano', 'BSCS'),
+(2, 'Meky Nurwena Quirante', 'BSCS'),
+(3, 'Charlotte Ploma', 'BSCS');
 
 -- --------------------------------------------------------
 
